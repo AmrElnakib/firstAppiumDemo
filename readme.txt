@@ -1,0 +1,1 @@
+First appium demo is used to make a simple testcase as an intro for mobile testing for the mobile calculator built in app
